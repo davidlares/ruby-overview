@@ -2,7 +2,6 @@
 
 Ejercicios prácticos de Ruby en su version 2.x, desde un hello World hasta POO y funcionalidades avanzadas como las lambdas.
 
-
 ## Ruby como lenguaje de programación
 
 - no es compilado
@@ -16,11 +15,9 @@ Ejercicios prácticos de Ruby en su version 2.x, desde un hello World hasta POO 
 Inspirado el Lisp, Perl, SmallTalk, Eiffel, Ada.
 Busca ser natural, no simple -- es un lenguaje muy expresivo por encima de las formalidades
 
-
-
 ## Créditos
-- [David E Lares S](https://twitter.com/@davidlares3)
+[David E Lares S](https://davidlares.com)
 
 ## Licencia
-
 [MIT](https://opensource.org/licenses/MIT)
+

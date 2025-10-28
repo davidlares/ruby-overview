@@ -1,23 +1,22 @@
-## DavidRuby
+## Ruby overview
 
-Ejercicios prácticos de Ruby en su version 2.x, desde un hello World hasta POO y funcionalidades avanzadas como las lambdas.
+Practical exercises in Ruby version 2.x, from Hello World to OOP and advanced features like lambdas.
 
-## Ruby como lenguaje de programación
+## Ruby as a programming language
 
-- no es compilado
-- lee linea por linea  y va ejecutando, usa un interprete
-- no hay puntos y comas
-- tipado dinamico
-- todo es un objeto (ofrece una flexibilidad al lenguaje)
-- muy productivo
-- facil de reescribir el mismo, agregar metodos, etc.
+- is not compiled
+- reads line by line and executes, uses an interpreter
+- no semicolons
+- dynamic typing
+- everything is an object (offers flexibility to the language)
+- very productive
+- easy to rewrite, add methods, etc.
 
-Inspirado el Lisp, Perl, SmallTalk, Eiffel, Ada.
-Busca ser natural, no simple -- es un lenguaje muy expresivo por encima de las formalidades
+Inspired by Lisp, Perl, SmallTalk, Eiffel, Ada.
+It seeks to be natural, not simplistic -- it is a very expressive language above formalities
 
-## Créditos
-[David E Lares S](https://davidlares.com)
+## Credits
+[David Lares S](https://davidlares.com)
 
-## Licencia
+## License
 [MIT](https://opensource.org/licenses/MIT)
-
